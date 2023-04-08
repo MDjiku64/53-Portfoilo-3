@@ -157,10 +157,84 @@ text-align: left;
 
 
 
+
     /* Experience Start */
+.expericence{
+padding: 1% 5%;
 
 
 
+}
+
+.ac-contact button{
+
+width: 150px;
+
+}
     
 
     /* Experience Ends */
+
+
+
+
+
+    /* Achievement contact start */
+
+    .ahct{
+
+padding-right: 50px;
+
+    }
+    
+
+    .aclinks{
+
+position: relative;
+
+
+    }
+
+
+    .mediabtn{
+margin-top: 200px;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+
+
+
+    }
+ /* Achievement contact ends */
+
+
+
+
+
+
+
+
+
+
+  /* footer start */
+
+.footermenu{
+
+margin-top: 12px;
+
+
+}
+
+.footermenu a {
+
+display: inline;
+margin: 10px;
+
+
+
+}
+
+
+
+  /* footer end  */
